@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @edu-rodriguez
-- 👀 I’m interested in Python and JavaScript
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ... (At the moment nothing)
+- 👀 I’m interested in Backend
+- 🌱 I’m currently learning Operative Systems with C
 - 📫 How to reach me EduRD04#4169 (Discord)
 
 <!---
