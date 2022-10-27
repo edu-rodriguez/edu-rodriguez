@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edu-rodriguez
-- 👀 I’m interested in Backend
-- 🌱 I’m currently learning Operative Systems with C
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning C and Python
 - 📫 How to reach me EduRD04#4169 (Discord)
 
 <!---
